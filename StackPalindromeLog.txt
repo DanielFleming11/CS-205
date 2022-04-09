@@ -1,0 +1,3 @@
+Enter properties file name
+StackPalindrome.properties 
+log_file_name
