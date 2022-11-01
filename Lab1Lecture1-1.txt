@@ -1,0 +1,86 @@
+Iterating forward through list
+
+Salary Employee 
+Yearly Salary = 30000
+Monthly Pay = 2500
+
+Salary Employee 
+Yearly Salary = 35000
+Monthly Pay = 2916
+
+Piece Employee 
+Rate Per Piece = 60
+Pieces Made = 0
+Monthly Pay = 0
+
+Piece Employee 
+Rate Per Piece = 40
+Pieces Made = 0
+Monthly Pay = 0
+
+Salary Employee 
+Yearly Salary = 100000
+Monthly Pay = 8333
+
+Sales Employee 
+Yearly Base = 60000
+Monthly Pay = 5000
+Commission = 30000
+
+Iterating forward here is each monthlyPay
+2500
+2916
+0
+0
+8333
+5000
+
+Iterating forward after removal
+
+Salary Employee 
+Yearly Salary = 35000
+Monthly Pay = 2916
+
+Piece Employee 
+Rate Per Piece = 60
+Pieces Made = 0
+Monthly Pay = 0
+
+Piece Employee 
+Rate Per Piece = 40
+Pieces Made = 0
+Monthly Pay = 0
+
+Salary Employee 
+Yearly Salary = 100000
+Monthly Pay = 8333
+
+Sales Employee 
+Yearly Base = 60000
+Monthly Pay = 5000
+Commission = 30000
+
+Contents of array
+
+Salary Employee 
+Yearly Salary = 35000
+Monthly Pay = 2916
+
+Piece Employee 
+Rate Per Piece = 60
+Pieces Made = 0
+Monthly Pay = 0
+
+Piece Employee 
+Rate Per Piece = 40
+Pieces Made = 0
+Monthly Pay = 0
+
+Salary Employee 
+Yearly Salary = 100000
+Monthly Pay = 8333
+
+Sales Employee 
+Yearly Base = 60000
+Monthly Pay = 5000
+Commission = 30000
